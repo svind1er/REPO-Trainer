@@ -106,7 +106,6 @@ namespace repoMenu
                     cheats.Log("MoveSpeed field not found in PlayerController.");
                 }
             }
-            Thread.Sleep(1);
         }
 
         public static void Revive()
